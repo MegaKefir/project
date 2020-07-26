@@ -1,0 +1,47 @@
+p{
+	color: #262626;
+	/* font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.5; */
+	font: 14px/1.5 Arial, Verdana, Helvetica, sans-serif;
+	text-indent: 35px;
+	
+}	
+ol{
+	list-style-type:lower-roman
+}
+#header{
+	color: #c23636;
+	font-size:30px;
+	text-align:center;
+}
+p em{
+	color: #d44a4a;
+}
+p span{
+	text-decoration:underline
+}
+h3, h4{
+	color:#243f7a
+}
+h2{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:center;
+}
+.bold-text{
+	font-weight:bold;
+}
+.italic-text{
+	font-style:italic;
+	font-weight:bold;
+}
+tr{
+	text-align:center;
+}
+.left-colomn{
+	text-align:left;
+}
+a:hover{
+	text-decoration:none
+}
